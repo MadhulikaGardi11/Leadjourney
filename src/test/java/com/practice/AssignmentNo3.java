@@ -61,6 +61,9 @@ public class AssignmentNo3 {
 		
 		driver.findElement(By.xpath("//a[@class=\"nav-link btn btn-primary\"]")).click();
 		driver.findElement(By.xpath("//button[@class=\"btn btn-success\"]")).click();
+		System.out.println("Hello");
+		System.out.println("Bye");
+
 
 	}
 
